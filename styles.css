@@ -122,12 +122,7 @@ button:focus {
     border-width: 0;
 }
 
-.btn--on {
-    color: #235858;
-    background-color: #fff;
-    margin: .875rem .875rem;
-    border-width: 0;
-}
+
 
 .btn--long-horizontal {
     width: 15.5rem;
